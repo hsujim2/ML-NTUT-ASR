@@ -30,6 +30,8 @@ training<br>
 ![](https://i.imgur.com/suALMZA.png)
 testing<br>
 ![](https://i.imgur.com/2rAIboK.png)
+kaggle result
+![](https://i.imgur.com/lRW1X8N.png)
 # Code
 import<br>
 ```Python
